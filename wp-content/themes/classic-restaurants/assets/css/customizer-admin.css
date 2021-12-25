@@ -1,0 +1,42 @@
+body #accordion-section-generatepress_upsell_section {
+    display: block !important;
+}
+body #accordion-section-generatepress_upsell_section h3 {
+    background-color: #9c9b9b !important;
+    color: #fff !important;
+    border-left: 0 !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body #accordion-section-cls_res_Section_Upsell h3 {
+	background-color: #5a5a5a !important;
+    color: #fff !important;
+    border-left: 0 !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body #accordion-section-cls_res_Section_Upsell {
+    display: block !important;
+}
+body .control-section .accordion-section-title .button {
+    margin-top: -4px;
+    font-weight: 700;
+    margin-left: 8px;
+    background: #ff3c36;
+    border: none;
+    color: #fff;
+}
+body .control-section .accordion-section-title .button:hover {
+    background-color: #404040;
+}
+body #accordion-section-cl_res_GeneratePress_Upsell_Section {
+    display: block !important;
+}
+body #accordion-section-cl_res_GeneratePress_Upsell_Section h3 {
+    background-color: #9c9b9b !important;
+    color: #fff !important;
+    border-left: 0 !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+

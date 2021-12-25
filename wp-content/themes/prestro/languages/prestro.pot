@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_x;__;_n;_ex;_nx;_n_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid 'Oops! That page can&rsquo;t be found.'
+msgstr ""
+
+#: 404.php:18
+msgid 'It looks like nothing was found at this location. Maybe try one of the links below or a search?'
+msgstr ""
+
+#: comments.php:34
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:54
+#: comments.php:79
+msgid 'Comment navigation'
+msgstr ""
+
+#: comments.php:55
+#: comments.php:80
+msgid '&larr; Older Comments'
+msgstr ""
+
+#: comments.php:56
+#: comments.php:81
+msgid'Newer Comments &rarr;'
+msgstr ""
+
+#: comments.php:90
+msgid 'Comments are closed.'
+msgstr ""
+
+#: footer.php:80
+msgid 'Copyright &copy 2018 Designed by UnboxThemes.'
+msgstr ""
+
+#: functions.php:42
+msgid 'Primary Menu'
+msgstr ""
+
+#: functions.php:43
+msgid 'Footer Links'
+msgstr ""
+
+#: functions.php:84
+msgid 'Sidebar'
+msgstr ""
+
+#: functions.php:93
+msgid 'Contact Widget'
+msgstr ""
+
+#: functions.php:94
+msgid 'Displays on the Home Page'
+msgstr ""
+
+#: functions.php:103
+msgid 'Footer Widget 1'
+msgstr ""
+
+#: functions.php:104
+#: functions.php:114
+
+msgid 'Used for footer widget area'
+msgstr ""
+
+#: functions.php:113
+msgid 'Footer Widget 2'
+msgstr ""
+
+#: header.php:78
+#: page-templates/template-homepage.php:20
+msgid 'Read More'
+msgstr ""
+
+#: image.php:24
+msgid 'Previous'
+msgstr ""
+
+#: image.php:25
+msgid 'Next'
+msgstr ""
+
+#: image.php:81
+#: template-parts/content-page.php:17
+#: template-parts/content-single.php:23
+#: template-parts/content.php:55
+msgid 'Pages:'
+msgstr ""
+
+#: search.php:17
+msgid 'Search Results for: %s'
+msgstr ""
+
+#: searchform.php:12
+msgid 'Search for:'
+msgstr ""
+
+#: searchform.php:13
+msgid 'Search...'
+msgstr ""
+
+#: searchform.php:15
+msgid 'Search'
+msgstr ""
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid 'Nothing Found'
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid 'Ready to publish your first post? <a href="%1$s">Get started here</a>.'
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.'
+msgstr ""
+
+#: template-parts/content-page.php:11
+#: template-parts/content-single.php:12
+#: template-parts/content.php:9
+msgid 'Untitled'
+msgstr ""
+
+#: template-parts/content-page.php:22
+#: template-parts/content-single.php:62
+#: template-parts/content.php:29
+msgid 'Edit'
+msgstr ""
+
+#: template-parts/content.php:14
+msgid 'Leave a comment'
+msgstr ""
+
+#: template-parts/content.php:37
+#: template-parts/content.php:51
+msgid 'Continue reading'
+msgstr ""
+
+#: inc/customizer.php:56
+msgid '&lgash; Select &lgash;'
+msgstr ""
+
+#: inc/customizer.php:80
+msgid 'General options'
+msgstr ""
+
+#: inc/customizer.php:85
+msgid 'Social Link'
+msgstr ""
+
+#: inc/customizer.php:95
+msgid 'Facebook link'
+msgstr ""
+
+#: inc/customizer.php:106
+msgid 'Twitter link'
+msgstr ""
+
+#: inc/customizer.php:117
+msgid 'Linkedin link'
+msgstr ""
+
+#: inc/customizer.php:128
+msgid 'Google Plus link'
+msgstr ""
+
+#: inc/customizer.php:139
+msgid 'Skype id'
+msgstr ""
+
+#: inc/customizer.php:147
+msgid 'Footer'
+msgstr ""
+
+#: inc/customizer.php:157
+msgid 'Section title'
+msgstr ""
+
+#: inc/customizer.php:168
+msgid 'Business Name'
+msgstr ""
+
+#: inc/customizer.php:179
+msgid 'Address'
+msgstr ""
+
+#: inc/customizer.php:190
+msgid 'Email'
+msgstr ""
+
+#: inc/customizer.php:201
+msgid 'Phone number'
+msgstr ""
+
+#: inc/customizer.php:209
+#: inc/customizer.php:219
+msgid 'Copyright'
+msgstr ""
+
+#: inc/customizer.php:227
+msgid 'Home slider settings '
+msgstr ""
+
+#: inc/customizer.php:228
+msgid 'Add slider images here,content and links here.'
+msgstr ""
+
+#: inc/customizer.php:236
+msgid 'Check this to hide slide captions'
+msgstr ""
+
+#: inc/customizer.php:247
+msgid 'No. of posts to display'
+msgstr ""
+
+#: inc/customizer.php:256
+msgid 'Welcome section'
+msgstr ""
+
+#: inc/customizer.php:265
+msgid 'Choose a page to display in this section:'
+msgstr ""
+
+#: inc/customizer.php:273
+msgid 'Our Services'
+msgstr ""
+
+#: inc/customizer.php:282
+#: inc/customizer.php:310
+#: inc/customizer.php:337
+msgid 'Section title'
+msgstr ""
+
+#: inc/customizer.php:292
+msgid 'Choose category'
+msgstr ""
+
+#: inc/customizer.php:301
+msgid 'Meet Our Chef'
+msgstr ""
+
+#: inc/customizer.php:320
+msgid 'Select Post Category:'
+msgstr ""
+
+#: inc/customizer.php:327
+msgid 'Contact us Page'
+msgstr ""
+
+#: inc/customizer.php:328
+msgid 'Set title and define contact form here by entering shortcode'
+msgstr ""
+
+#: inc/customizer.php:348
+msgid 'Contact form shortcode. Ex.[ninja_forms id=5]'
+msgstr ""
